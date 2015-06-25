@@ -1,5 +1,9 @@
 # YouTube Distractions Remover
-A userscript to remove annoying YouTube distractions such as comments, search box, guide which may cause procrastination.
+[![forthebadge](http://forthebadge.com/images/badges/does-not-contain-treenuts.svg)](http://forthebadge.com)
+
+A userscript to remove annoying YouTube distractions such as comments, search box and the guide which may cause procrastination, toggleable with a button.
+
+[![button](https://servc.eu/images/yt-dist-rem-btn.png)](https://servc.eu/images/yt-dist-rem-btn.png)
 
 ## Installation
 
