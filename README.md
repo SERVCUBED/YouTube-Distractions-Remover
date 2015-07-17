@@ -22,3 +22,11 @@ Get Greasemonkey here: https://addons.mozilla.org/en-US/firefox/addon/greasemonk
 
 1. Navigate to `https://servc.eu/js-ext/yt-dist-rem.user.js`.
 2. Press `Install`.
+
+### Scriptmonkey (Internet Explorer)
+
+Get Scriptmonkey here: https://github.com/SERVCUBED/Scriptmonkey
+
+1. Press `Manage Userscripts` > `Add` > `Browse` > `Add Script`
+2. Select `From URL` and enter `https://servc.eu/js-ext/yt-dist-rem.user.js`
+3. Exit out of all windows by pressing `Ok` > `Select` > `Save` > `Save`
