@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name          YouTube Distractions Remover
+// @author        Ben Blain (SERVCUBED)
 // @namespace     https://servc.eu/yt-dist
 // @homepage      https://servc.eu/yt-dist
 // @supportURL    https://servc.eu/yt-dist
