@@ -10,7 +10,7 @@
 // @updateURL     https://servc.eu/js-ext/yt-dist-rem.user.js
 // @downloadURL   https://servc.eu/js-ext/yt-dist-rem.user.js
 // @grant         none
-// @version       0.9
+// @version       0.9.5
 // ==/UserScript==
 
 /*
@@ -101,7 +101,7 @@ function ytDistRemove() {
     head = document.createElement("div");
     head.id = "yt-dist-rem-head";
     head.style.marginTop = "10px";
-    head.innerHTML = "<h1>YouTube distractions remover by <a href=\"https://servc.eu\" target=\"_blank\">SERV CUBED</a>. <a href=\"https://servc.eu/yt-dist\" target=\"_blank\">About.</a></h1>";
+    head.innerHTML = "<h2>YouTube distractions remover by <a href=\"https://servc.eu\" target=\"_blank\">SERV CUBED</a>. <a href=\"https://servc.eu/yt-dist\" target=\"_blank\">About.</a></h2>";
     document.getElementById('yt-masthead-content').appendChild(head);
 
     // Prevent autoplay with sidebar hidden
